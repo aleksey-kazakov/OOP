@@ -1,0 +1,53 @@
+﻿  Source.cpp
+c:\users\алексей_казаков\source\repos\binary\binary\node.h(6): error C2059: синтаксическая ошибка: <
+  c:\users\алексей_казаков\source\repos\binary\binary\node.h(15): note: выполняется компиляция ссылки на экземпляр шаблон класс "TreeNode<NODETYPE>"
+c:\users\алексей_казаков\source\repos\binary\binary\node.h(6): error C2238: непредвиденные лексемы перед ";"
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(5): error C2989: Tree: класс шаблон уже объявлен как не класс шаблон
+  c:\users\алексей_казаков\source\repos\binary\binary\node.h(6): note:  см. объявление "Tree"
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(5): error C3857: "Tree": множественные списки параметров шаблон не допускаются
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(22): error C2989: Tree: класс шаблон уже объявлен как не класс шаблон
+  c:\users\алексей_казаков\source\repos\binary\binary\tree.h(5): note:  см. объявление "Tree"
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(8): error C3857: "Tree": множественные списки параметров шаблон не допускаются
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(25): error C2988: неопознанное объявление или определение шаблона
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(25): error C2059: синтаксическая ошибка: <
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(26): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(26): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(30): error C2988: неопознанное объявление или определение шаблона
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(30): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(30): error C2059: синтаксическая ошибка: <
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(30): error C2039: add: не является членом "`global namespace'"
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(31): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(31): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(59): error C2988: неопознанное объявление или определение шаблона
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(59): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(59): error C2371: Tree: переопределение; различные базовые типы
+  c:\users\алексей_казаков\source\repos\binary\binary\tree.h(30): note:  см. объявление "Tree"
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(59): error C2059: синтаксическая ошибка: <
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(59): error C2039: find: не является членом "`global namespace'"
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(60): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(60): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(88): error C2988: неопознанное объявление или определение шаблона
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(88): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(88): error C2182: Tree: недопустимое использование типа "void"
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(88): error C2374: Tree: переопределение; множественная инициализация
+  c:\users\алексей_казаков\source\repos\binary\binary\tree.h(30): note:  см. объявление "Tree"
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(88): error C2059: синтаксическая ошибка: <
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(88): error C2039: print: не является членом "`global namespace'"
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(88): error C2065: NODETYPE: необъявленный идентификатор
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(88): error C2923: TreeNode: "NODETYPE" не является допустимым аргументом типа шаблон для параметра "NODETYPE"
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(89): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(89): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(99): error C2988: неопознанное объявление или определение шаблона
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(99): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(99): error C2040: Tree: "TreeNode<NODETYPE> *" отличается по уровням косвенного обращения от "int"
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(99): error C2059: синтаксическая ошибка: <
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(99): error C2039: get_root: не является членом "`global namespace'"
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(100): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\алексей_казаков\source\repos\binary\binary\tree.h(100): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\users\алексей_казаков\source\repos\binary\binary\source.cpp(4): error C2062: тип "int" не требуется
+c:\users\алексей_казаков\source\repos\binary\binary\source.cpp(5): error C2065: n: необъявленный идентификатор
+c:\users\алексей_казаков\source\repos\binary\binary\source.cpp(6): error C2065: n: необъявленный идентификатор
+c:\users\алексей_казаков\source\repos\binary\binary\source.cpp(7): error C2065: n: необъявленный идентификатор
+c:\users\алексей_казаков\source\repos\binary\binary\source.cpp(8): error C2065: n: необъявленный идентификатор
+c:\users\алексей_казаков\source\repos\binary\binary\source.cpp(9): error C2065: n: необъявленный идентификатор
+c:\users\алексей_казаков\source\repos\binary\binary\source.cpp(10): error C2065: n: необъявленный идентификатор
